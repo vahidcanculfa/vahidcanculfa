@@ -1,11 +1,8 @@
 
-
-<h3 align="left">no developer i m a shepherd</h3>
-<p align="left">
 </p>
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">no developer i m a shepherd</h2>
 
 ###
 
