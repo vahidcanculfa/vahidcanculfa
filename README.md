@@ -6,11 +6,7 @@
 
 <h2 align="center">no developer i'm a shepherd</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/6vutj5.mp4" />
 
-<br clear="both"/>
-
-<br/>
 
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
